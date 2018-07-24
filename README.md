@@ -7,15 +7,18 @@ A simple yet Mini World Plugin Pack that adds Vehicles and new recipes for it to
 * Compatible with Multiplayer rooms.
 * No Additional lag.
 
-> To see a list of all the recipes and "tips", check out the [Wiki](https://github.com/zfeikg/releases) page.
-
 ## Download
 
 Download the latest build on [Releases](https://github.com/zfeikg/vehicles/releases) page.
 
+## Bugs
+
+Report bugs in the [Issues](https://github.com/zfeikg/vehicles/issues) page. (You will need a GitHub Account)
+
 ## Preview
 
-### Icon:
+> Icon:
+
 ![Plugin Pack Icon](https://github.com/zfeikg/vehicles/blob/master/icon.png)
 
 ## License
