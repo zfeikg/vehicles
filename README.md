@@ -3,9 +3,9 @@ A simple yet Mini World Plugin Pack that adds Vehicles and new recipes for it to
 
 ## Features
 
-* Simple to add new Vehicle Textures.
 * Compatible with Multiplayer rooms.
 * No Additional lag.
+* Play races with your friends!
 
 ## Download
 
