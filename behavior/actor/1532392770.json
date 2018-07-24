@@ -32,6 +32,7 @@
 		"life": 150,
 		"mass": 999999,
 		"model": "13802",
+		"texture":"basic_car_black_white",
 		"model_scale": 1.1,
 		"name": "Basic Car",
 		"speed": 0,
