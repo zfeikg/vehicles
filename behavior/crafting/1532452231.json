@@ -1,0 +1,46 @@
+{
+	"foreign_ids": [
+	],
+	"mod_desc": {
+		"author": "1001510235",
+		"filename": "1532452231",
+		"uuid": "d19239f0-10da-4df7-8a34-f1cbe810c8d3",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 1000,
+		"id": 1002,
+		"is_followme": false,
+		"material_count1": 30,
+		"material_count2": 15,
+		"material_count3": 5,
+		"material_count4": 5,
+		"material_count5": 5,
+		"material_count6": 1,
+		"material_count7": 1,
+		"material_count8": 5,
+		"material_count9": 2,
+		"material_count10": 6,
+		"material_count11": 2,
+		"material_count12": 10,
+		"material_count13": 1,
+		"material_count14": 1,
+		"material_id1": 11209,
+		"material_id2": 11207,
+		"material_id3": 206,
+		"material_id4": 1009,
+		"material_id5": 706,
+		"material_id6": 702,
+		"material_id7": 701,
+		"material_id8": 600,
+		"material_id9": 11309,
+		"material_id10": 649,
+		"material_id11": 11055,
+		"material_id12": 448,
+		"material_id13":309,
+		"material_id14":307,
+		"result_count": 1,
+		"result_id": 11,
+		"type": 3 
+	} 
+} 
