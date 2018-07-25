@@ -41,9 +41,9 @@
 	"property": {
 		"copyid": 10100,
 		"describe": "A fast Vehicle.",
-		"icon": "13802",
+		"icon": "*13802",
 		"id": 4103,
-		"model": "13802",
+		"model": "*13802",
 		"name": "#c00FFFF Basic Blue Car",
 		"stack_max": 64 
 	} 
