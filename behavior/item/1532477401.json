@@ -1,0 +1,50 @@
+{
+	"foreign_ids": [
+	],
+	"itemskills": [
+		{
+			"ChargeTime": 0.5,
+			"ChargeType": 2,
+			"Cooldown": 0,
+			"Costs": [
+				{
+					"CostTarget": 4099,
+					"CostType": 2,
+					"CostVal": 0 
+				} 
+			],
+			"Functions": [
+				{
+					"CallNum": 1,
+					"Duration": 946728000,
+					"IsFollow": 0,
+					"MobID": 5 
+				} 
+			],
+			"RangeType": 1,
+			"RangeVal1": 300,
+			"RangeVal2": 300,
+			"RangeVal3": 300,
+			"SkillType": 1,
+			"TargetCamp": 0,
+			"name": "feature_call_monster",
+			"priority": 0,
+			"templateid": 103 
+		} 
+	],
+	"mod_desc": {
+		"author": "1000872134",
+		"filename": "1532477401",
+		"uuid": "192bac0b-6b5c-4355-b00d-0ccb02ce0793",
+		"version": "1" 
+	},
+	"property": {
+		"copyid": 10100,
+		"describe": "A fast Vehicle.",
+		"icon": "13802",
+		"id": 4099,
+		"model": "13802",
+		"name": "#R Basic Red Car",
+		"stack_max": 64 
+	} 
+} 

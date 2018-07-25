@@ -26,13 +26,13 @@
 	"fra_author":"realFeik",
 	"jpn_author":"realFeik",
 	"ara_author":"realFeik",
-    "pack_version":"1.0", 
+    "pack_version":"1.1", 
     "api_version":"0.26.0",
 	"mod_type":0,
     "restart_required":false,
 	"open_edit":true,
     "standalone":false,
     "uuid":"192bac0b-6b5c-4355-b00d-0ccb02ce0793",
-	"author_head_iconindex":0,
+	"author_head_iconindex":55,
 	"authoruin":1000872134
 }
