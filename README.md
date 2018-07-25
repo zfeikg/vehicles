@@ -1,4 +1,5 @@
-# vehicles
+# vehicles [![GitHub issues](https://img.shields.io/github/issues/zfeikg/vehicles.svg)](https://github.com/zfeikg/vehicles/issues) [![GitHub license](https://img.shields.io/github/license/zfeikg/vehicles.svg)](https://github.com/zfeikg/vehicles/blob/master/LICENSE)
+
 A simple yet Mini World Plugin Pack that adds Vehicles and new recipes for it to the game.
 
 ## Features
@@ -9,7 +10,9 @@ A simple yet Mini World Plugin Pack that adds Vehicles and new recipes for it to
 
 ## Download
 
-Download the latest build on [Releases](https://github.com/zfeikg/vehicles/releases) page.
+Download the latest build on the [Releases](https://github.com/zfeikg/vehicles/releases) page.
+
+Latest Release: [![GitHub Releases](https://img.shields.io/github/downloads/zfeikg/vehicles/latest/total.svg)](https://github.com/zfeikg/vehicles/releases)
 
 ## Bugs
 
@@ -19,7 +22,7 @@ Report bugs in the [Issues](https://github.com/zfeikg/vehicles/issues) page. (Yo
 
 > Icon:
 
-![Plugin Pack Icon](https://github.com/zfeikg/vehicles/blob/master/icon.png)
+![Plugin Pack Icon](https://raw.githubusercontent.com/zfeikg/vehicles/master/icon.png)
 
 ## License
 
