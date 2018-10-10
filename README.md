@@ -1,3 +1,9 @@
+# Note
+
+I'm developing this in other account called [thatRARE](https://github.com/thatRARE), this repo is in read-only mode.
+
+---
+
 # vehicles [![GitHub issues](https://img.shields.io/github/issues/zfeikg/vehicles.svg)](https://github.com/zfeikg/vehicles/issues) [![GitHub license](https://img.shields.io/github/license/zfeikg/vehicles.svg)](https://github.com/zfeikg/vehicles/blob/master/LICENSE)
 
 A simple yet Mini World Plugin Pack that adds Vehicles and new recipes for it to the game.
